@@ -1,1 +1,1 @@
-# Projeto2
+# Prim & Kruskal
